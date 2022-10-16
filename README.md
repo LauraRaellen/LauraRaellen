@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-git" height="30" width="40" src="https://user-images.githubusercontent.com/89939694/178088284-d137a2bf-2c90-4c3d-9332-ebfb961baee7.svg">
   <img align="center" alt="Rafa-sass" height="30" width="40" src="https://user-images.githubusercontent.com/89939694/178088348-eed4e72b-0135-48e1-a0bc-d6b045797ac8.svg">
-  <img align="center" alt="Rafa-sass" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
+  <img align="center" alt="Rafa-sass" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
 </div>
   
   ##
