@@ -13,6 +13,9 @@
   <img align="center" alt="Rafa-git" height="30" width="40" src="https://user-images.githubusercontent.com/89939694/178088284-d137a2bf-2c90-4c3d-9332-ebfb961baee7.svg">
   <img align="center" alt="Rafa-sass" height="30" width="40" src="https://user-images.githubusercontent.com/89939694/178088348-eed4e72b-0135-48e1-a0bc-d6b045797ac8.svg">
   <img align="center" alt="Rafa-sass" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+   <img align="center" alt="Rafa-sass" height="30" width="40" src="https://iconape.com/wp-content/files/dx/352988/png/jest-logo.png">
+   <img align="center" alt="Rafa-sass" height="30" width="40" src="https://iconape.com/wp-content/files/tx/353401/png/react-logo.png">
+   <img align="center" alt="Rafa-sass" height="30" width="40" src="https://iconape.com/wp-content/files/cf/353046/png/next-js-logo.png">
 </div>
   
   ##
