@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-sass" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
    <img align="center" alt="Rafa-sass" height="30" width="40" src="https://iconape.com/wp-content/files/dx/352988/png/jest-logo.png">
    <img align="center" alt="Rafa-sass" height="30" width="40" src="https://iconape.com/wp-content/files/tx/353401/png/react-logo.png">
-   <img align="center" alt="Rafa-sass" height="30" width="40" src="https://iconape.com/wp-content/files/cf/353046/png/next-js-logo.png">
+   <img align="center" alt="Rafa-sass" height="30" width="40" src="https://iconape.com/wp-content/files/fs/353107/png/npm-node-package-manager-logo.png">
 </div>
   
   ##
