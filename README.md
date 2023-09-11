@@ -1,4 +1,4 @@
-# Oiii eu sou a Laura! Esse é o meu GitHub, venha conferir!!
+# Oiii eu sou a Laura! Esse é o meu GitHub!!
 <div align="center">
   <a href="https://github.com/LauraRaellen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauraRaellen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
